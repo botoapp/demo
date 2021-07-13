@@ -6,7 +6,7 @@
     --dfNodeType: flex;
     --dfNodeTypeFloat: none;
     --dfNodeWidth: 160px;
-    --dfNodeBackgroundColor: rgba(105, 209, 176, 1);
+    --dfNodeBackgroundColor: rgba(206, 242, 221, 1);
     --dfNodeTextColor: #000000;
     --dfNodeBorderSize: 1px;
     --dfNodeBorderColor: rgba(55, 161, 127, 1);
@@ -100,7 +100,7 @@
   
   }
 
-#drawflow {
+div.drawflowContainer {
     text-align:initial;
     background: var(--dfBackgroundColor);
     background-size: var(--dfBackgroundSize) var(--dfBackgroundSize);
@@ -133,7 +133,6 @@
     border: var(--dfNodeBorderSize) solid var(--dfNodeBorderColor);
     color: var(--dfNodeTextColor);
     z-index: 2;
-    padding: 15px;
 }
 .drawflow .drawflow-node.selected {
     background: var(--dfNodeSelectedBackgroundColor);
@@ -152,7 +151,7 @@
 }
 .drawflow .drawflow-node .input,
 .drawflow .drawflow-node .output {
-    position: relative;
+    position: absolute;
     width: 20px;
     height: 20px;
     background: var(--dfOutputBackgroundColor);
@@ -168,8 +167,8 @@
     background: #81e3c4;
 }
 .drawflow .drawflow-node .output {
-    right: -3px;
-    top: 2px;
+    right: -28px;
+    top: 12px;
 }
 .drawflow svg {
     z-index: 0;
