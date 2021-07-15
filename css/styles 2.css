@@ -5,3 +5,7 @@
 .bg-primary {
     background-color: #0c591d !important;
 }
+
+.ml-2 {
+    margin-left: 10px;
+}
