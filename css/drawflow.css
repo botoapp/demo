@@ -185,16 +185,19 @@ div.drawflowContainer {
 .drawflow .connection {
     position: absolute;
     transform: translate(9999px, 9999px);
+    pointer-events: none;
 }
 .drawflow .connection .main-path {
     fill: none;
     stroke-width: 2px;
     stroke: #43b993;
     transform: translate(-9999px, -9999px);
+    pointer-events: all;
 }
 .drawflow .connection .main-path:hover {
     stroke: #1266ab;
     cursor: pointer;
+    pointer-events: all;
 }
 .drawflow .connection .main-path.selected {
     stroke: #43b993;
