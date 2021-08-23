@@ -11734,8 +11734,16 @@ svg {
         transition: all 0.2s;
     }
 
+    .bot-card-list {
+        background: linear-gradient(#20B083, #3dbf96);
+        min-width: 300px;
+        min-height: 240px;
+    }
+
     .bot-card-home {
         background: linear-gradient(#32a852, #149c39);
+        min-width: 260px;
+        min-height: 240px;
     }
     
     .bot-card:hover {
@@ -11746,24 +11754,29 @@ svg {
     .bot-card__link,
     .bot-card__exit,
     .bot-card__icon {
-    position: relative;
-    text-decoration: none;
-    color: rgba(255, 255, 255, 0.9);
+        position: relative;
+        text-decoration: none;
+        color: rgba(255, 255, 255, 0.9);
+    }
+
+    .bot-card__link:hover {
+        color: #fff;
+        text-decoration: none;
     }
     
     .bot-card__link::after {
-    position: absolute;
-    top: 25px;
-    left: 0;
-    content: "";
-    width: 0%;
-    height: 3px;
-    background-color: rgba(255, 255, 255, 0.6);
-    transition: all 0.5s;
+        position: absolute;
+        top: 25px;
+        left: 0;
+        content: "";
+        width: 0%;
+        height: 3px;
+        background-color: rgba(255, 255, 255, 0.6);
+        transition: all 0.5s;
     }
     
     .bot-card__link:hover::after {
-    width: 100%;
+        width: 100%;
     }
     
     .bot-card__exit {
