@@ -6,6 +6,14 @@
     background-color: #0c591d !important;
 }
 
+.pl-2 {
+    padding-left: 16px;
+}
+
+.pt-1 {
+    padding-top: 6px;
+}
+
 .ml-2 {
     margin-left: 10px;
 }
