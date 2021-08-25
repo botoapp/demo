@@ -1970,7 +1970,7 @@ progress {
     padding: .25rem .7rem;
     font-size: .875rem;
     font-weight: 400;
-    line-height: 1.5;
+    line-height: 2.12;
     color: #495057;
     background-color: #fff;
     background-clip: padding-box;
@@ -10674,7 +10674,7 @@ textarea.form-control-lg {
 
 @media (min-width:992px) {
     .content {
-        padding: 2.5rem 2.5rem 1rem
+        padding: 1.4rem 2.5rem 1rem
     }
 }
 
