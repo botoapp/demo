@@ -93,16 +93,33 @@ button:disabled {
 .boto-button.muted{
     color:rgb(102, 102, 102)!important;
 }
+
+.boto-button.muted:hover{
+    background:rgb(107, 107, 107, 0.2)!important;
+}
+
 .primary-btn {
     background-color:#198c38;
 }
 
 .secondary-btn {
-    background-color:#db852e;
+    background-color:#d47e29;
 }
 
 .terciary-btn {
     background-color:#3b7dbf;
+}
+
+.primary-btn:hover{
+    background:#157e31!important;
+}
+
+.secondary-btn:hover{
+    background:#c07020 !important;
+}
+
+.terciary-btn:hover{
+    background:#336faa!important;
 }
 
 /*!
