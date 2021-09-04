@@ -11145,24 +11145,27 @@ body {
 .sidebar-toggle {
     cursor: pointer;
     width: 26px;
-    height: 26px
+    height: 26px;
 }
 
 .sidebar.collapsed {
-    margin-left: -260px
+    margin-left: -260px;
 }
 
 @media (min-width:1px) and (max-width:991.98px) {
     .sidebar {
-        margin-left: -260px
+        margin-left: -260px;
+    }
+    .sidebar-hidden {
+        margin: 0px !important;
     }
     .sidebar.collapsed {
-        margin-left: 0
+        margin-left: 0;
     }
 }
 
 .sidebar-toggle {
-    margin-right: 1rem
+    margin-right: 1rem;
 }
 
 .sidebar-header {
