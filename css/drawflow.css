@@ -189,12 +189,12 @@ div.drawflowContainer {
   }
   .drawflow .connection .main-path {
     fill: none;
-    stroke-width: 5px;
-    stroke: steelblue;
+    stroke-width: 4px;
+    stroke: #43b993;;
     pointer-events: all;
   }
   .drawflow .connection .main-path:hover {
-    stroke: #1266ab;
+    stroke: rgb(2, 41, 13);;
     cursor: pointer;
   }
   
@@ -209,7 +209,7 @@ div.drawflowContainer {
     fill: white;
     pointer-events: all;
   }
-  
+
 .drawflow .connection .point.selected,
 .drawflow .connection .point:hover {
     fill: #1266ab;
