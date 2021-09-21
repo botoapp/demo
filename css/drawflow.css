@@ -127,8 +127,8 @@ div.drawflowContainer {
     align-items: center;
     position: absolute;
     background: var(--dfNodeBackgroundColor);
-    width: var(--dfNodeWidth);
-    min-height: 40px;
+    min-height: 30px;
+    min-width: 200px;
     border-radius: 4px;
     border: var(--dfNodeBorderSize) solid var(--dfNodeBorderColor);
     color: var(--dfNodeTextColor);
@@ -190,11 +190,11 @@ div.drawflowContainer {
   .drawflow .connection .main-path {
     fill: none;
     stroke-width: 4px;
-    stroke: #43b993;;
+    stroke: #43b993;
     pointer-events: all;
   }
   .drawflow .connection .main-path:hover {
-    stroke: rgb(2, 41, 13);;
+    stroke: rgb(2, 41, 13);
     cursor: pointer;
   }
   
