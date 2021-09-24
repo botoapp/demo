@@ -2,6 +2,10 @@
     color: #0c591d;
 }
 
+.primary-muted {
+    color: #dffce6;
+}
+
 .bg-primary {
     background-color: #0c591d !important;
 }
@@ -30,6 +34,10 @@
     margin-right: 10px;
 }
 
+.mr-3 {
+    margin-right: 18px;
+}
+
 button:disabled {
     cursor: not-allowed;
     pointer-events: all !important;
@@ -48,7 +56,8 @@ button:disabled {
     transition:opacity .3s linear;
     -moz-transition:opacity .3s linear;
     -webkit-transition:opacity .3s linear;
-    -o-transition:opacity .3s linear;color:#fff!important;
+    -o-transition:opacity .3s linear;
+    color:#fff!important;
     font-size:12px;
     letter-spacing:2px;
     padding:13px 18px;
