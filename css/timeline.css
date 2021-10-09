@@ -1,0 +1,62 @@
+ul.timeline {
+    list-style: none;
+    padding: 0;
+}
+  
+  .timeline  {
+    border-radius: 12px;
+    position: relative;
+  }
+  
+  .timeline li {
+    border-left: 1px solid #4ed385;
+    position: relative;
+    padding-left: 20px;
+    margin-left: 10px;
+    background: #f5fcf7;
+  }
+  .timeline li:last-child {
+    border: 0px;
+    padding-bottom: 0;
+  }
+  .timeline li:before {
+    content: "";
+    width: 15px;
+    height: 15px;
+    background: white;
+    border-radius: 50%;
+    position: absolute;
+    left: -7px;
+    top: 0px;
+  }
+
+  .timeline li.ok:before {
+    font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f058";
+    color: #12bb58;
+    box-shadow: 3px 3px 0px #d8fce6;
+    box-shadow: 3px 3px 0px #d8fce6;
+  }
+
+  .timeline li.ko:before {
+    font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f06a";
+    color: #d34e4e;
+    box-shadow: 3px 3px 0px #fdebeb;
+    box-shadow: 3px 3px 0px #fdebeb;
+  }
+  
+  .time {
+    color: #4ed385;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+  }
+  @media screen and (min-width: 601px) {
+    .time {
+      font-size: 0.9rem;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    .time {
+      margin-bottom: 0.3rem;
+      font-size: 0.85rem;
+    }
+  }
