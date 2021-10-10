@@ -9,7 +9,7 @@ ul.timeline {
   }
   
   .timeline li {
-    padding-bottom: 1.5rem;
+    padding-bottom: 1rem;
     border-left: 1px solid #4ed385;
     position: relative;
     padding-left: 20px;
@@ -38,8 +38,15 @@ ul.timeline {
     box-shadow: 3px 3px 0px #d8fce6;
   }
 
+  .timeline li.neutral:before {
+    font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f111";
+    color: #380eac;
+    box-shadow: 3px 3px 0px #fdebeb;
+    box-shadow: 3px 3px 0px #fdebeb;
+  }
+
   .timeline li.ko:before {
-    font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f06a";
+    font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f057";
     color: #d34e4e;
     box-shadow: 3px 3px 0px #fdebeb;
     box-shadow: 3px 3px 0px #fdebeb;
