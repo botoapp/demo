@@ -6,9 +6,9 @@
     --dfNodeType: flex;
     --dfNodeTypeFloat: none;
     --dfNodeWidth: 230px;
-    --dfNodeBackgroundColor: rgba(206, 242, 221, 1);
+    --dfNodeBackgroundColor: #3cb568;
     --dfNodeTextColor: #000000;
-    --dfNodeBorderSize: 1px;
+    --dfNodeBorderSize: 2px;
     --dfNodeBorderColor: rgb(167, 207, 195);
     --dfNodeBorderRadius: 4px;
     --dfNodeMinHeight: 40px;
@@ -145,6 +145,7 @@ div.drawflowContainer {
 
 .drawflow .drawflow-node.selected {
     background: var(--dfNodeSelectedBackgroundColor);
+    border-color: #0b7d2b;
     color: #fff;
 }
 .drawflow .drawflow-node:hover {
