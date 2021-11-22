@@ -329,12 +329,12 @@ sup {
 }
 
 a {
-    color: #3b7ddd;
+    color: #4cb56c;
     text-decoration: none
 }
 
 a:hover {
-    color: #2f64b1;
+    color: #1e7839;
     text-decoration: underline
 }
 
@@ -3835,7 +3835,7 @@ textarea.form-control-lg {
 
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     color: #fff;
-    background-color: #3b7ddd
+    background-color: #4cb56c
 }
 
 .nav-fill .nav-item, .nav-fill>.nav-link {
@@ -11187,18 +11187,6 @@ body {
 
 .sidebar.collapsed {
     margin-left: -260px;
-}
-
-@media (min-width:1px) and (max-width:991.98px) {
-    .sidebar {
-        margin-left: -260px;
-    }
-    .sidebar-hidden {
-        margin: 0px !important;
-    }
-    .sidebar.collapsed {
-        margin-left: 0;
-    }
 }
 
 .sidebar-toggle {
