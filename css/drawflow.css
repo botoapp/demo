@@ -146,7 +146,6 @@ div.drawflowContainer {
 .drawflow .drawflow-node.selected {
     background: var(--dfNodeSelectedBackgroundColor);
     border-color: #0b7d2b;
-    color: #fff;
 }
 .drawflow .drawflow-node:hover {
     cursor: move;
