@@ -148,6 +148,14 @@ button:disabled {
     background-color:#3b7dbf;
 }
 
+.stop-action-btn {
+    background-color:#ab2e43;
+}
+
+.stop-action-btn:hover {
+    background-color:#9e1b31;
+}
+
 .primary-btn:hover{
     background:#157e31!important;
 }
