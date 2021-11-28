@@ -6510,7 +6510,7 @@ textarea.form-control-lg {
 }
 
 .text-primary {
-    color: #3b7ddd!important
+    color: #229154!important
 }
 
 .text-secondary {
@@ -10823,6 +10823,26 @@ footer.footer ul {
     footer.footer {
         width: 100vw
     }
+}
+
+.form-control-no-border {
+    border: 0;
+    border-bottom: 2px solid #9a9a9b;
+    background: transparent;
+    padding:0;
+    color:rgba(0, 0, 0, .8);
+}
+
+.form-control-no-border:focus {
+    outline: none;
+    background: transparent;
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.form-big-text {
+    font-size: 20px;
 }
 
 .input-group-navbar .btn, .input-group-navbar .form-control {
