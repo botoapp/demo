@@ -1,11 +1,11 @@
-importScripts("/demo/precache-manifest.5331c3c983be84d6a5eccf64d76ef98f.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("/precache-manifest.daa7f6f4792e369a063ca3030f3b0ad7.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 /* eslint-disable no-console */
 
 import { register } from "register-service-worker";
 
 if (process.env.NODE_ENV === "production") {
-  register(`${process.env.BASE_URL}service-worker.js`, {
+  register(`${process.env.BASE_URL}sw.js`, {
     ready() {
       console.log(
         "App is being served from cache by a service worker.\n" +
