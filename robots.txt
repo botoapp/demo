@@ -1,1 +1,2 @@
-Sitemap: https://botoapp.io/sitemap.txt
+User-agent: *
+Disallow:
