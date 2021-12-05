@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/browserconfig.xml"
   },
   {
-    "revision": "4b656eff125851e2adaf",
+    "revision": "44c118516a12979877f8",
     "url": "/demo/css/app.49d6db80.css"
   },
   {
@@ -176,12 +176,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/img/loading.svg"
   },
   {
-    "revision": "a31251d0adb7c41ccaa46074ad9b8abb",
+    "revision": "5073d0a2ab95d07636cbb8bf26ff43b7",
     "url": "/demo/index.html"
   },
   {
-    "revision": "4b656eff125851e2adaf",
-    "url": "/demo/js/app.cd688571.js"
+    "revision": "44c118516a12979877f8",
+    "url": "/demo/js/app.59c10105.js"
   },
   {
     "revision": "7b73c8bd110489a2fea8",
@@ -272,7 +272,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/sitemap.txt"
   },
   {
-    "revision": "da8751a68f23f638ddc0971963cfceb0",
+    "revision": "5f064337b2a44071ba2a7a13f368bd9b",
     "url": "/demo/sw.js"
   }
 ]);
