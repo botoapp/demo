@@ -1,12 +1,12 @@
 :root {
     --dfBackgroundColor: rgba(255, 255, 255, 1);
-    --dfBackgroundSize: 5px;
-    --dfBackgroundImage: linear-gradient(to right, rgba(32, 176, 130, 0.01) 1px, transparent 1px), linear-gradient(to bottom, rgba(32, 176, 130, 0.05) 1px, transparent 1px);
+    --dfBackgroundSize: 20px;
+    --dfBackgroundImage: linear-gradient(to right, rgba(32, 176, 130, 0.1) 1px, transparent 1px), linear-gradient(to bottom, rgba(32, 176, 130, 0.1) 1px, transparent 1px);
   
     --dfNodeType: flex;
     --dfNodeTypeFloat: none;
     --dfNodeWidth: 230px;
-    --dfNodeBackgroundColor: #3cb568;
+    --dfNodeBackgroundColor: transparent;
     --dfNodeTextColor: #000000;
     --dfNodeBorderSize: 2px;
     --dfNodeBorderColor: rgb(167, 207, 195);
@@ -33,7 +33,7 @@
     --dfNodeHoverBoxShadowS: 2px;
     --dfNodeHoverBoxShadowColor: rgba(80, 191, 156, 0.5);
   
-    --dfNodeSelectedBackgroundColor: rgba(22, 117, 87, 1);
+    --dfNodeSelectedBackgroundColor: transparent;
     --dfNodeSelectedTextColor: #ffffff;
     --dfNodeSelectedBorderSize: 1px;
     --dfNodeSelectedBorderColor: rgba(8, 94, 67, 1);
@@ -146,6 +146,8 @@ div.drawflowContainer {
 .drawflow .drawflow-node.selected {
     background: var(--dfNodeSelectedBackgroundColor);
     border-color: #0b7d2b;
+    box-shadow: rgba(0, 0, 0, 0.12) 1.95px 1.95px 2.6px;
+    border-radius: 20px;
 }
 .drawflow .drawflow-node:hover {
     cursor: move;
@@ -196,7 +198,7 @@ div.drawflowContainer {
     pointer-events: all;
   }
   .drawflow .connection .main-path:hover {
-    stroke: rgb(2, 41, 13);
+    stroke: #28a57d;
     cursor: pointer;
   }
   
@@ -206,9 +208,9 @@ div.drawflowContainer {
   
   .drawflow .connection .point {
     cursor: move;
-    stroke: black;
+    stroke: #43b993;
     stroke-width: 2;
-    fill: white;
+    fill: #43b993;
     pointer-events: all;
   }
 
@@ -239,7 +241,7 @@ div.drawflowContainer {
     display: block;
     width: 30px;
     height: 30px;
-    background: #0b7d2b;
+    background: #198c38;
     color: #fff;
     z-index: 4;
     border: 1px solid #fff;
