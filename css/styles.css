@@ -168,6 +168,8 @@ button:disabled {
     background:#336faa!important;
 }
 
+
+
 /*!
  * AdminKit v2.3.0 (https://adminkit.io/)
  * Copyright 2021 Paul Laros
@@ -11076,7 +11078,7 @@ body {
 
 .sidebar, .sidebar-content {
     transition: margin-left .35s ease-in-out, left .35s ease-in-out, margin-right .35s ease-in-out, right .35s ease-in-out;
-    background: #198c38;
+    background: #20b083
 }
 
 .sidebar-content {
