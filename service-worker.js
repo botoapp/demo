@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/demo/precache-manifest.ebadccb5ae804922ab5ad7746ca48aa1.js"
+  "/demo/precache-manifest.8ba69a47edb5c4dd5fa2b09abbbfa2e9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "boto-web-app"});
