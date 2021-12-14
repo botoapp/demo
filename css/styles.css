@@ -168,7 +168,9 @@ button:disabled {
     background:#336faa!important;
 }
 
-
+.toggle-off span.toggle-label {
+    padding-left: 4px;
+}
 
 /*!
  * AdminKit v2.3.0 (https://adminkit.io/)

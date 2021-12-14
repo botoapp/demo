@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/browserconfig.xml"
   },
   {
-    "revision": "fc1ad991e7a0252fe33d",
+    "revision": "f72bb052d0dd3675a7c4",
     "url": "/demo/css/app.49d6db80.css"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/css/chunk-2a1334da.0e433876.css"
   },
   {
-    "revision": "2d4a483bb7039e1bbfb4",
+    "revision": "6a837d96baa0d90134ba",
     "url": "/demo/css/chunk-2c7660ba.bf07c187.css"
   },
   {
@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/css/chunk-4f45df0e.07e6104c.css"
   },
   {
-    "revision": "35103712233d8ac6cad6",
+    "revision": "c4b18cc95570eb808717",
     "url": "/demo/css/chunk-5a012f0c.9776f89d.css"
   },
   {
@@ -112,7 +112,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/css/skeletor.css"
   },
   {
-    "revision": "e9a3d845637cbedacb7ec42206388002",
+    "revision": "85adc92a72586bef23a6110892ca2fbd",
     "url": "/demo/css/styles.css"
   },
   {
@@ -184,12 +184,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/img/loading.svg"
   },
   {
-    "revision": "ca1f70153d6484ee371051d6c04dfad4",
+    "revision": "84fba816b599c4a7e2520b1ef2945bc4",
     "url": "/demo/index.html"
   },
   {
-    "revision": "fc1ad991e7a0252fe33d",
-    "url": "/demo/js/app.52d3231f.js"
+    "revision": "f72bb052d0dd3675a7c4",
+    "url": "/demo/js/app.8fbe5fa6.js"
   },
   {
     "revision": "ad8355380dafef79f684",
@@ -200,8 +200,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/js/chunk-2a1334da.5d9e609c.js"
   },
   {
-    "revision": "2d4a483bb7039e1bbfb4",
-    "url": "/demo/js/chunk-2c7660ba.2ce7ec15.js"
+    "revision": "6a837d96baa0d90134ba",
+    "url": "/demo/js/chunk-2c7660ba.622bb50f.js"
   },
   {
     "revision": "50e77db030d0f47424ec",
@@ -220,8 +220,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/js/chunk-4f45df0e.7813f870.js"
   },
   {
-    "revision": "35103712233d8ac6cad6",
-    "url": "/demo/js/chunk-5a012f0c.e05a713a.js"
+    "revision": "c4b18cc95570eb808717",
+    "url": "/demo/js/chunk-5a012f0c.e0a73b1b.js"
   },
   {
     "revision": "c1ce7c154ab2cb43682f",
