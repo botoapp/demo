@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/demo/precache-manifest.1e5e3181650da745d486ec3684ae9177.js"
+  "/demo/precache-manifest.aa16eb3316f135368b6a44a47107f09c.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "boto-web-app"});
+workbox.core.setCacheNameDetails({prefix: "web_client"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
