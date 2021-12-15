@@ -169,7 +169,7 @@ button:disabled {
 }
 
 .toggle-off span.toggle-label {
-    padding-left: 4px;
+    color: #8f8f8f;
 }
 
 /*!
