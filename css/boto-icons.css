@@ -31,6 +31,22 @@
 
 .eth-polygon {
   display: block;
+  margin: 2px 4px 0 0;
+  float:left;
+  width: 18px;
+  height: 18px;
+  background-image: url(../img/mono_blanco_calendario_nft.svg);
+  background-repeat: no-repeat;
+}
+
+.menu-block-icon.eth-polygon {
+  margin: 0 !important;
+  height: 36px;
+  width:  36px !important;
+} 
+/* 
+.eth-polygon {
+  display: block;
   margin: 3px 4px 0 0;
   float:left;
   width: 26px;
@@ -44,4 +60,4 @@
   margin: 0;
   height: 30px;
   background-image: url(../img/eth+polygon-big.svg);
-}
+} */
