@@ -172,6 +172,24 @@ button:disabled {
     color: #8f8f8f;
 }
 
+.select {
+    padding: 7px 12px 7px 6px;
+    width: 100%;
+    border: 1px solid #E8EAED;
+    border-radius: 3px;
+    background: white;
+    box-shadow: 0 1px 3px -2px #9098A9;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 16px;
+    transition: all 150ms ease;
+  }
+  
+  .form-field-error {
+    border: 2px solid #dba227;
+    background: #f7f1e4;
+  }
+
 /*!
  * AdminKit v2.3.0 (https://adminkit.io/)
  * Copyright 2021 Paul Laros
