@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/config.json"
   },
   {
-    "revision": "39ad8c88ad0f6178f814",
+    "revision": "5e7a3d992f331aa6d9a9",
     "url": "/demo/css/app.49d6db80.css"
   },
   {
@@ -40,7 +40,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/css/chunk-2c7660ba.e37a3727.css"
   },
   {
-    "revision": "b52373ec2373d5e6407e",
+    "revision": "7bd45d34544a38842cd8",
     "url": "/demo/css/chunk-3a94ca0c.8e65ebc2.css"
   },
   {
@@ -220,12 +220,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/img/nft.svg"
   },
   {
-    "revision": "84e3d84b49c1cdf6373d96250309c521",
+    "revision": "85d16a87f7663f80aaaf37aad23709a2",
     "url": "/demo/index.html"
   },
   {
-    "revision": "39ad8c88ad0f6178f814",
-    "url": "/demo/js/app.dfa18cff.js"
+    "revision": "5e7a3d992f331aa6d9a9",
+    "url": "/demo/js/app.d3543123.js"
   },
   {
     "revision": "00f71dc577dac1f13b86",
@@ -240,8 +240,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/js/chunk-2c7660ba.ff5b524b.js"
   },
   {
-    "revision": "b52373ec2373d5e6407e",
-    "url": "/demo/js/chunk-3a94ca0c.527898e2.js"
+    "revision": "7bd45d34544a38842cd8",
+    "url": "/demo/js/chunk-3a94ca0c.f0067f8f.js"
   },
   {
     "revision": "d117d35bd70ceb9c50b9",
