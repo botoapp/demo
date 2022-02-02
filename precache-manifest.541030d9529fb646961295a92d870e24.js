@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/config.json"
   },
   {
-    "revision": "6695d4330f5eeb995734",
+    "revision": "cebf8490b19e43233527",
     "url": "/demo/css/app.49d6db80.css"
   },
   {
@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/css/chunk-3a94ca0c.8e65ebc2.css"
   },
   {
-    "revision": "32f2dd8000e3a35e4166",
+    "revision": "aa97ae7bb90cb690a1f5",
     "url": "/demo/css/chunk-4a6df679.d516a0f1.css"
   },
   {
@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/css/chunk-5a012f0c.045c7195.css"
   },
   {
-    "revision": "3a59dff8524ae1c2174e",
+    "revision": "24c4c48e3d275c42f11c",
     "url": "/demo/css/chunk-609c65aa.fede5022.css"
   },
   {
@@ -224,12 +224,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/img/nft.svg"
   },
   {
-    "revision": "7091a895563fa6b33a10e5c57a610bff",
+    "revision": "988c5be4bb0e9134c81f95eb54f29b54",
     "url": "/demo/index.html"
   },
   {
-    "revision": "6695d4330f5eeb995734",
-    "url": "/demo/js/app.476e9996.js"
+    "revision": "cebf8490b19e43233527",
+    "url": "/demo/js/app.7b137f19.js"
   },
   {
     "revision": "8d26c5b7f2a057632937",
@@ -240,8 +240,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/js/chunk-3a94ca0c.2be72f65.js"
   },
   {
-    "revision": "32f2dd8000e3a35e4166",
-    "url": "/demo/js/chunk-4a6df679.0b066e95.js"
+    "revision": "aa97ae7bb90cb690a1f5",
+    "url": "/demo/js/chunk-4a6df679.ba83a7d8.js"
   },
   {
     "revision": "d117d35bd70ceb9c50b9",
@@ -256,8 +256,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/js/chunk-5a012f0c.71627b57.js"
   },
   {
-    "revision": "3a59dff8524ae1c2174e",
-    "url": "/demo/js/chunk-609c65aa.1cd892ac.js"
+    "revision": "24c4c48e3d275c42f11c",
+    "url": "/demo/js/chunk-609c65aa.9a8a4c00.js"
   },
   {
     "revision": "6fd3f95194035d014535",
