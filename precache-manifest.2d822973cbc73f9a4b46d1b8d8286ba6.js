@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/config.json"
   },
   {
-    "revision": "3b87a76a35ba1d18dac6",
+    "revision": "f3e187d132c0daaffcc9",
     "url": "/demo/css/app.49d6db80.css"
   },
   {
@@ -32,11 +32,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/css/chunk-2c7660ba.e37a3727.css"
   },
   {
-    "revision": "9af54a129b9c11ab868f",
+    "revision": "27f84d8fa959190d6e70",
     "url": "/demo/css/chunk-3a94ca0c.8e65ebc2.css"
   },
   {
-    "revision": "aff4151073b9dcf09dfa",
+    "revision": "7a447220b23e6aff14df",
     "url": "/demo/css/chunk-4a6df679.d516a0f1.css"
   },
   {
@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/css/chunk-5a012f0c.045c7195.css"
   },
   {
-    "revision": "1a1669d7f354bae2198a",
+    "revision": "396255a20d3a91dc9b8e",
     "url": "/demo/css/chunk-609c65aa.fede5022.css"
   },
   {
@@ -224,24 +224,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/img/nft.svg"
   },
   {
-    "revision": "8ebbb994318ef825a9820e1e802b0834",
+    "revision": "2d610bfc7b8834ddad1c50534b5cd792",
     "url": "/demo/index.html"
   },
   {
-    "revision": "3b87a76a35ba1d18dac6",
-    "url": "/demo/js/app.9c098b5a.js"
+    "revision": "f3e187d132c0daaffcc9",
+    "url": "/demo/js/app.35d7a441.js"
   },
   {
     "revision": "8d26c5b7f2a057632937",
     "url": "/demo/js/chunk-2c7660ba.e7454536.js"
   },
   {
-    "revision": "9af54a129b9c11ab868f",
-    "url": "/demo/js/chunk-3a94ca0c.008753cc.js"
+    "revision": "27f84d8fa959190d6e70",
+    "url": "/demo/js/chunk-3a94ca0c.7f711cab.js"
   },
   {
-    "revision": "aff4151073b9dcf09dfa",
-    "url": "/demo/js/chunk-4a6df679.4f84f7a8.js"
+    "revision": "7a447220b23e6aff14df",
+    "url": "/demo/js/chunk-4a6df679.baedd3c6.js"
   },
   {
     "revision": "d117d35bd70ceb9c50b9",
@@ -256,8 +256,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/js/chunk-5a012f0c.71627b57.js"
   },
   {
-    "revision": "1a1669d7f354bae2198a",
-    "url": "/demo/js/chunk-609c65aa.d861b2e0.js"
+    "revision": "396255a20d3a91dc9b8e",
+    "url": "/demo/js/chunk-609c65aa.dc3ce025.js"
   },
   {
     "revision": "6fd3f95194035d014535",
