@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/config.json"
   },
   {
-    "revision": "48db3bd60f7cff370c86",
+    "revision": "ae6e961e12b94837f3e2",
     "url": "/demo/css/app.49d6db80.css"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/css/chunk-2c7660ba.e37a3727.css"
   },
   {
-    "revision": "aa3395d131b19f5f2540",
+    "revision": "dbb9e06db7c03cc6b714",
     "url": "/demo/css/chunk-3a94ca0c.26205e59.css"
   },
   {
@@ -224,20 +224,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo/img/nft.svg"
   },
   {
-    "revision": "b62aa0a10a41ff451c8074898f4514d7",
+    "revision": "145ffa37688e53b7a348e4387a46a814",
     "url": "/demo/index.html"
   },
   {
-    "revision": "48db3bd60f7cff370c86",
-    "url": "/demo/js/app.9e49fcbf.js"
+    "revision": "ae6e961e12b94837f3e2",
+    "url": "/demo/js/app.a0bd283a.js"
   },
   {
     "revision": "86385b71074859ba7d7a",
     "url": "/demo/js/chunk-2c7660ba.c0220762.js"
   },
   {
-    "revision": "aa3395d131b19f5f2540",
-    "url": "/demo/js/chunk-3a94ca0c.f80f641f.js"
+    "revision": "dbb9e06db7c03cc6b714",
+    "url": "/demo/js/chunk-3a94ca0c.708efd50.js"
   },
   {
     "revision": "e3b08b4bf5500d304690",
