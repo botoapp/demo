@@ -52,7 +52,7 @@ div#hubspot-messages-iframe-container {
 }
 
 .mr-1 {
-    margin-right: 4px;
+    margin-right: 4px !important;
 }
 
 .mr-2 {
